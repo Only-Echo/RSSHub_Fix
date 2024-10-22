@@ -197,3 +197,8 @@
         "node": ">=20"
     }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
